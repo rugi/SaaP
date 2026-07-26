@@ -11,8 +11,8 @@ El recorrido inicia con los fundamentos de almacenamiento en la nube, profundiza
 
 El objetivo central es demostrar dos propiedades arquitectónicas:
 
-Portabilidad: la aplicación puede cambiar de proveedor de almacenamiento sin modificar su lógica de negocio.
-Interoperabilidad: los datos pueden trasladarse entre proveedores compatibles manteniendo su integridad y capacidad operativa.
+* Portabilidad: la aplicación puede cambiar de proveedor de almacenamiento sin modificar su lógica de negocio.
+* Interoperabilidad: los datos pueden trasladarse entre proveedores compatibles manteniendo su integridad y capacidad operativa.
 
 # Contenido.
 
