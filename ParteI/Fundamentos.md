@@ -1,4 +1,4 @@
-# Fundamentos.
+# Parte I. Fundamentos.
 
 ## 1. Por qué importa el almacenamiento.
 ### Persistencia frente a procesamiento.
