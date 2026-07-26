@@ -6,6 +6,7 @@ Demostrar que una misma aplicación puede almacenar y mostrar imágenes utilizan
 
 ## Flujo:
 
+```
 Usuario
    |
    v
@@ -17,6 +18,8 @@ ObjectStorage
    +------ Amazon S3
    +------ MinIO
    +------ Ceph RGW
+```
+
 
 ## Concepto principal:
 
