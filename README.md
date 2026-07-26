@@ -17,17 +17,39 @@ Interoperabilidad: los datos pueden trasladarse entre proveedores compatibles ma
 ## Contenido.
 
 ### Parte I. Fundamentos.
+## 1. Por qué importa el almacenamiento.
+## 2. Modelos de almacenamiento..
+## 3. Cómo elegir.
 
 ### Parte II. Object Storage.
+## 4. Fundamentos de Object Storage.
+## 5. Amazon S3 como estándar de facto.
+## 6. Alternativas compatibles.
+## 7. Compatibilidad no significa igualdad.
 
-### Parte III. Diseño de la aplicación
 
-### Parte IV. Interoperabilidad y migración
+### Parte III. Diseño de la aplicación.
+## 8. Diseñar una capa portable.
+## 9. Aplicación de catálogo.
+## 10. Cambio de proveedor.
 
-### Parte V. Ceph como plataforma
 
-### Parte VI. Conclusiones
+### Parte IV. Interoperabilidad y migración.
+## 11. Portabilidad, interoperabilidad y migración.
+## 12. Estrategias de migración.
+## 13. Migrador JavaFX.
+## 14. Riesgos de una migración.
+
+### Parte V. Ceph como plataforma.
+## 15. Ceph no es solamente Object Storage.
+## 16. Caso Block Storage.
+## 17. Caso File Storage.
+## 18. Plataforma unificada.
+
+### Parte VI. Conclusiones.
+## 19. Lecciones.
+## 20. Siguientes pasos.
 
 ### Laboratorios.
-#### Laboratorio 1. Aplicación web de catálogo
-#### Laboratorio 2. Migrador JavaFX
+#### Laboratorio 1. Aplicación web de catálogo.
+#### Laboratorio 2. Migrador JavaFX.
