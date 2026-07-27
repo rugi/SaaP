@@ -7,7 +7,7 @@
 ### La portabilidad debe probarse
 ### Ceph es una plataforma
 
-## <a href="19.md">20. Siguientes pasos.</a>
+## <a href="20.md">20. Siguientes pasos.</a>
 ### Kubernetes
 ### Rook
 ### CSI
