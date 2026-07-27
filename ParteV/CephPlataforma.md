@@ -2,6 +2,7 @@
 ## <a href="15.md">15. Ceph no es solamente Object Storage.</a>
 ### RGW
 ### RBD
+### CephFS
 
 ## <a href="16.md">16. Caso Block Storage
 ### PostgreSQL sobre un volumen
