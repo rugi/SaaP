@@ -1,13 +1,13 @@
 # Interoperabilidad y migración.
 
-## 11. Portabilidad, interoperabilidad y migración
+## <a href="11.md">11. Portabilidad, interoperabilidad y migración.</a>
 ### Portabilidad
 ### Interoperabilidad
 ### Migración
 ### Responsabilidades
 
 
-## 12. Estrategias de migr
+## <a href="12.md">12. Estrategias de migración.</a>
 ### Copy
 ### Sync
 ### Cutover
@@ -16,7 +16,7 @@
 ### Rollback
 
 
-## 13. Migrador JavaFX
+## <a href="13.md">13. Migrador JavaFX.</a>
 ### Objetivo
 ### Arquitectura
 #### Conexiones origen y destino
@@ -26,7 +26,7 @@
 ### Reporte
 ### Migración reversible
 
-## 14. Riesgos de una migración
+## <a href="14.md">14. Riesgos de una migración.</a>
 ### Consistencia
 ### Objetos que cambian durante la copia
 ### Archivos grandes
