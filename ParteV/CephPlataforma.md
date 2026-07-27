@@ -1,22 +1,23 @@
 # Parte V. Ceph como plataforma
-## 15. Ceph no es solamente Object Storage
+## <a href="15.md">15. Ceph no es solamente Object Storage.</a>
 ### RGW
 ### RBD
-## 16. Caso Block Storage
+
+## <a href="16.md">16. Caso Block Storage
 ### PostgreSQL sobre un volumen
 ### Disco persistente
 ### Random I/O
 ### Snapshots
 ### Concepto de RBD
 
-## 17. Caso File Storage
+## <a href="17.md">17. Caso File Storage.</a>
 ### Directorio compartido
 ### Múltiples consumidores
 ### Lectura y escritura simultánea
 ### Concepto de CephFS
 
 
-## 18. Plataforma unificada
+## <a href="18.md">18. Plataforma unificada.</a>
 ### Ventajas
 ### Costos
 ### CPU, memoria y red
