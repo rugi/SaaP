@@ -1,13 +1,13 @@
 # Parte VI. Conclusiones
 
-## 19. Lecciones
+## <a href="19.md">19. Lecciones.</a>
 ### Elegir el modelo antes que el producto
 ### Diseñar contra un contrato
 ### Separar datos, configuración y políticas
 ### La portabilidad debe probarse
 ### Ceph es una plataforma
 
-## 20. Siguientes pasos
+## <a href="19.md">20. Siguientes pasos.</a>
 ### Kubernetes
 ### Rook
 ### CSI
