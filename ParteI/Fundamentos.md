@@ -16,7 +16,13 @@
 ### 2.4 Almacenamiento efímero
 ### 2.5 Archive Storage
 
-## <a href="03.md">3. Cómo elegir.</a>
+## <a href="03.md">3. Características complementarias</a>
+
+### 3.1 Almacenamiento persistente
+### 3.2 Almacenamiento efímero
+### 3.2 Hot, warm, cold y archive storage
+
+## <a href="04.md">3. Cómo elegir.</a>
 ### Patrón de acceso
 ### Latencia
 ### Jerarquía
