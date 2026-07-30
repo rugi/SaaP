@@ -13,8 +13,7 @@
 ### 2.1 Object Storage
 ### 2.2 Block Storage
 ### 2.3 File Storage
-### 2.4 Almacenamiento efímero
-### 2.5 Archive Storage
+ 
 
 ## <a href="03.md">3. Características complementarias</a>
 
